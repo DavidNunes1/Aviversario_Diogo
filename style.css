@@ -1,0 +1,75 @@
+body{
+    background: rgb(82, 82, 82);
+}
+
+#data{
+    color: rgb(255, 174, 0);
+    font: bold 50pt Arial;
+    text-align: center;
+}
+#numero{
+    color: rgb(255, 174, 0);
+    font: bold 50pt Arial;
+    text-align: center;
+    margin-right: 250px;
+    margin-top: -15px;
+}
+
+#tracoVermelho1{
+    width: 125px;
+    transform: rotate(-45deg);
+}
+
+#tracoVermelho2{
+    width: 125px;
+    transform: rotate(45deg);
+}
+
+#imgTraco1{
+    margin-top: -120px;
+    margin-right: 250px;
+}
+
+#imgTraco2{
+    margin-top: -80px;
+    margin-right: 250px;
+}
+
+#parabensButton{
+    background-color: chocolate;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.281);
+    border-color: blue;
+}
+#parabensButn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#parabensText{
+    font: bold 30pt Arial;
+    text-align: center;
+    vertical-align:50%;
+}
+
+#setaImg{
+    width: 200px;
+    transform: rotate(-90deg);
+}
+
+#setaDiv{
+    margin-top: -15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clickText{
+    margin-top: 150px;
+    margin-left: -30px;
+    color: azure;
+    font: bold 20pt Arial;
+}
